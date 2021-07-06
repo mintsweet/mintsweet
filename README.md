@@ -1,10 +1,9 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mintsweet&hide=contribs,prs&show_icons=true&theme=graywhite" />
-
 ### Hi Bro 👋
 
 I'm mintsweet.
 
-  - 👻  Sunshine otaku.
+  - 👻  Sunshine Otaku.
+  - 🍉  A New dad.
 
 **Languages and Tools:**  
 
