@@ -1,6 +1,6 @@
 ### Hi Bro 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mintsweet&show_icons=true&hide_title=true&hide=contribs&include_all_commits=true&theme=graywhite" alt="mintsweet's github stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mintsweet&show_icons=true&hide_title=true&hide=contribs&theme=graywhite" alt="mintsweet's github stats"/>
 
 I'm mintsweet.
 
